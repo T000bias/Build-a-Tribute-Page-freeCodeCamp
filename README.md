@@ -14,7 +14,7 @@ This project will be completed in 3 different ways
 ---
 
 ## Description from freeCodeCamp
-1. tribute page should have an element with a corresponding `id="main"`, which contains all other elements
+1. Your tribute page should have an element with a corresponding `id="main"`, which contains all other elements
 
 2. You should see an element with an  `id` of `title`, which contains a string (i.e. text), that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug")
 
